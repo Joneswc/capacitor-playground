@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2c765b7-5cde-4c76-8c68-0a0997a8c0dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,19 +27,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="204">
-                <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <first_editor relative-caret-position="221">
+                <caret line="13" column="86" selection-start-line="13" selection-start-column="86" selection-end-line="13" selection-end-column="86" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -75,8 +75,8 @@
       <list>
         <option value="$PROJECT_DIR$/capacitor.config.json" />
         <option value="$PROJECT_DIR$/www/index.html" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -144,7 +144,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561824789498</updated>
-      <workItem from="1561824793568" duration="8187000" />
+      <workItem from="1561824793568" duration="8351000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 1 - 29/ junho / 2019">
       <created>1561837352293</created>
@@ -153,21 +153,29 @@
       <option name="project" value="LOCAL" />
       <updated>1561837352293</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Aula 1 - 29/ junho / 2019">
+      <created>1561837471052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561837471052</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8187000" />
+    <option name="totallyTimeSpent" value="8351000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32900432" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32900432" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32900432" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -235,18 +243,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <first_editor relative-caret-position="221">
+            <caret line="13" column="86" selection-start-line="13" selection-start-column="86" selection-end-line="13" selection-end-column="86" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

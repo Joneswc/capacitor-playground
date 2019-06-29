@@ -10,3 +10,5 @@ testar no console do inspect:
     var output = output => console.log(JSON.stringify(output));
     output('Hello World')
         vai sair o: "Hello World"
+
+Capacitor.Plugins.CustomNativePlugin.customCall({message: 'Hello World'}).then(output)

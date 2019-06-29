@@ -1,0 +1,11 @@
+{
+  "appId": "com.example.hello",
+  "appName": "Hello",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "server": {
+    "url": "http://10.136.74.172:3333",
+    "hostname": "app"
+   }
+}

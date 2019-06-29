@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="title_activity_main">Hello</string>
+    <string name="package_name">com.example.hello</string>
+    <string name="fileprovider_authority">com.example.hello.fileprovider</string>
+    <string name="custom_url_scheme">com.example.hello</string>
+</resources>

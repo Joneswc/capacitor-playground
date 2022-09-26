@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@capacitor/android": "^1.1.0",
-    "@capacitor/cli": "^1.1.0",
+    "@capacitor/cli": "^1.5.3",
     "@capacitor/core": "^1.1.0"
   }
 }
